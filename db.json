@@ -9,8 +9,8 @@
     {"id": 2, "x":"10", "y":"70", "color":"#2dbba4"}
   ],
   "test3": [
-    {"x":"30", "y":"50", "color":"#b5ef37"},
-    {"x":"10", "y":"70", "color":"#2dbba4"}
+    {"id": 1, "x":"30", "y":"50", "color":"#b5ef37"},
+    {"id": 2, "x":"10", "y":"70", "color":"#2dbba4"}
   ],
   "profile": {
     "name": "typicode"
