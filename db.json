@@ -1,7 +1,7 @@
 {
-  "weather": {
-   "degree": "1"
-  },
+  "weather": [
+    {"degree": "1"}
+  ],
   "profile": {
     "name": "typicode"
   }
