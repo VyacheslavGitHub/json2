@@ -1,3 +1,5 @@
 {
-  "weather": 15
+  "weather": [
+    {"degree": "15"}
+  ]
 }
