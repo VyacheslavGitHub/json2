@@ -1,12 +1,5 @@
 {
-  "weather": [
-    { "id": 1, "degree": "15" },
-    { "id": 2, "degree": "28" },
-    { "id": 3, "degree": "-4" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "weather": [15
   ],
   "profile": {
     "name": "typicode"
