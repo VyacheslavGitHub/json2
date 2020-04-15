@@ -1,5 +1,3 @@
 {
-  "weather": [
-    {"degree": "15"}
-  ]
+  "weather": [15]
 }
