@@ -1,5 +1,5 @@
 {
-  "weather": [15],
+  "weather": 15,
   "profile": {
     "name": "typicode"
   }
