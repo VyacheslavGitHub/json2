@@ -2,5 +2,7 @@
   "weather": {"temp": "15",
              "feel": "-8",
              "wind": "100",
-             "humidity": "99"}
+             "humidity": "99",
+             "img": "https://kipmu.ru/wp-content/uploads/kobobl.jpg"
+             }
 }
